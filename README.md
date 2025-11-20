@@ -295,6 +295,6 @@ uvicorn main:app --reload
 **Run Event-Based**
 ```
 cd Unselected/event_based
-uvicorn main:app --reload
+uvicorn api_gateway.main:app --reload
 ```
 
